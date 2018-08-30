@@ -1,0 +1,14 @@
+D:\Kontor_K\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\bin\Debug\ExceptionCalc.exe.config
+D:\Kontor_K\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\bin\Debug\ExceptionCalc.exe
+D:\Kontor_K\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\bin\Debug\ExceptionCalc.pdb
+D:\Kontor_K\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.csprojResolveAssemblyReference.cache
+D:\Kontor_K\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.csproj.CoreCompileInputs.cache
+D:\Kontor_K\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.exe
+D:\Kontor_K\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.pdb
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\bin\Debug\ExceptionCalc.exe.config
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\bin\Debug\ExceptionCalc.exe
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\bin\Debug\ExceptionCalc.pdb
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.csprojAssemblyReference.cache
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.csproj.CoreCompileInputs.cache
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.exe
+D:\!.NET\Projects\CSharp\CSharp_Essential\Lesson15_Exceptions\CSharp_Essential_Lesson15_Exceptions_DopTask\ExceptionCalc\ExceptionCalc\obj\Debug\ExceptionCalc.pdb
